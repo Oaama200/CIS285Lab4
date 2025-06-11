@@ -4,6 +4,7 @@ public class Hello {
             System.out.println("Hello World..." + i);
             System.out.println("Test1");
             System.out.println("This is from Moe branch");
+            System.out.println("Jenkins build test");
         }
     }
 }
